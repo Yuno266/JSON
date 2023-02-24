@@ -1,1 +1,11 @@
-
+{
+"ID": 01,
+  "Title": "new_BR",
+  "Environment": "Mac_OS_Catalina",
+  "Precondition": "URL",
+  "Severity": "critical",
+  "Priority": "medium"
+  "STR": 3,
+  "AR": " ",
+  "ER": " ",
+}
