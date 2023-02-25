@@ -4,8 +4,8 @@
   "Environment": "Mac_OS_Catalina",
   "Precondition": "URL",
   "Severity": "critical",
-  "Priority": "medium"
+  "Priority": "medium",
   "STR": 3,
-  "AR": " ",
-  "ER": " ",
+  "AR": "example",
+  "ER": "example"
 }
